@@ -1,0 +1,10 @@
+{
+  "name": "Phantom (from P5)",
+  "description": "Adds the main menu music from P5 (vanilla) to your deck. Composed by Shoji Meguro.",
+  "author": "steinbagel",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
